@@ -10,6 +10,13 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 
 - [AI Tools](#ai-tools)
 - [Developer Tools](#developer-tools)
+  - [PDF & File Tools](#pdf--file-tools)
+  - [Data Formatting](#data-formatting)
+  - [Encoding & Hashing](#encoding--hashing)
+  - [Generators](#generators)
+  - [Web Development](#web-development)
+  - [System & Math](#system--math)
+  - [Reference](#reference)
 - [SEO & Marketing Tools](#seo--marketing-tools)
 - [Product Research](#product-research)
 - [Directories](#directories)
@@ -47,6 +54,9 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI Product Finder](https://findpicked.com/tools/product-finder/) - Personalized product recommendations.
 
 ## Developer Tools
+
+### PDF & File Tools
+- [Vaultool](https://vaultool.com) - Privacy-first browser-based tool suite. PDF merge/split/compress/watermark, image compress/crop/convert, plus JSON/Base64/Regex/JWT — all 50+ tools process files locally in your browser. Zero data leaves your device. ([中文版](https://vaultool.com/zh/))
 
 ### Data Formatting
 - [JSON Formatter](https://findpicked.com/webtools/json-formatter/) - Format, validate & beautify JSON
